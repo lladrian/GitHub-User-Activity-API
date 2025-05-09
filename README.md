@@ -33,4 +33,4 @@ A simple command line interface (CLI) to fetch the recent activity of a GitHub u
      - **username**  List of recent activity of a GitHub user.
 
 
-4. https://roadmap.sh/projects/tmdb-cli
+4. https://roadmap.sh/projects/github-user-activity
