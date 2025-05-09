@@ -28,7 +28,7 @@ A simple command line interface (CLI) to fetch the recent activity of a GitHub u
 2. Clone or download this project.
 
 3. To run use this command : `node cli_github_user_activity.js lladrian`
-  - Usage: node cli_github_user_activity.js [command]
+  - Usage: node cli_github_user_activity.js `<username>`
   - Commands:
      - **username**  List of recent activity of a GitHub user.
 
